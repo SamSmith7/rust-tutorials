@@ -1,0 +1,6 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["Sam Smith <samuel.smith@algomi.com>"]
+
+[dependencies]
